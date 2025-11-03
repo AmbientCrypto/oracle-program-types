@@ -1,0 +1,13 @@
+cargo-features = ["edition2024"]
+
+[package]
+name = "oracle-program-types"
+authors = ["Engineering <engineering@ambientcrypto.ai"]
+version = "0.1.0"
+repository = "https://github.com/AmbientCrypto/oracle-program-types"
+license = "Proprietary"
+homepage = "https://ambient.xyz"
+edition = "2024"
+
+[dependencies]
+anchor-lang = "0.31.1"
